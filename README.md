@@ -8,7 +8,7 @@
 
 **Duration:** July to Augest 2025
 
-**Mentor:**
+**Mentor:** N.Santhosh
 
 ## Overview of the Project
 
